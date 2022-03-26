@@ -1,9 +1,13 @@
 {
-  "IsEncrypted": false,
+  "IsEncrypted": true,
   "Values": {
-    "FUNCTIONS_WORKER_RUNTIME": "CfDJ8KvJ6DmYyMJCgkPKMHi9yggxobSNL+EiBudqjTbkN08MV8FPGx7WqKyJXi1vK5/3O48YnxQvGjJtBiH2gbzh8qUxrA2On+1JRf1xQeWwdKwATocSwT1CMT9SN2gtzXs0ZQ=="
+    "AzureWebJobsStorage": "CfDJ8K8ro0ohLGZAkUxudtRoYTsscHzUHDCNKXLkT8HH8dWXU2O8RQ4+nbk25wyT0PtQYCPrbo0h09hMIQEbIqJVcx6EJo8nrQOE97glg8jTS1G5Gy0yOi2SlLg4vnil7vmH2OB9r96L9Qnp/5TSAJSakLf5sPCT8oHfaFOJNW5MryKohfdMK4rSnsQhKYn4YHesZye9yA0qaVa1QI/rT2++gIXWm9A1FLtPuyNZDm+/lA2/3LiF0MqGhFuQjg0QvutwaIGHxtP5/+PaG4eGSAJtaStNOFZBraUY7Ol1opjfLtVuwCXG+qKwBsz7tIl/FjZ+npoaNu+jGIUzf24l3vwXAweZw+XAai9VkbSSAPywiH2k",
+    "FUNCTIONS_EXTENSION_VERSION": "CfDJ8K8ro0ohLGZAkUxudtRoYTuWpd2iscXTH3YXKCGuuSOchgzb74E10m8R12BDVSHnvKwcONutZzaABB1cuBqYxBge7gbOxSrfnDiwNoxto5H12NXYv7/1k6i50UVijwnGfg==",
+    "FUNCTIONS_WORKER_RUNTIME": "CfDJ8K8ro0ohLGZAkUxudtRoYTuHM0k78lao4xRUIr+VlPx00L9UKCcnXNlRY+ubYXZWasB4HRqZ9qKLV8jmc4Z4alVwZyGTxULiyQoO3jRSXna1GHs3nlJo+l57vJe2RC6SMg==",
+    "WEBSITE_CONTENTAZUREFILECONNECTIONSTRING": "CfDJ8K8ro0ohLGZAkUxudtRoYTsln31/j8mzXJRGHL2+fxH6BNP8ZS+k8jNR3fgkB9SBMAEKJhxguW+O9krTwKKNn2mCDA0FPoBapl/OZH7B413l06tsAzvEs0UHObqdWO38BvOkNMDGj2PwwUTGscccQ1nP9bxRTEUN6hoHn/Ri9U4Cq0otTIRVl6BZliqHdL+9MCMLA214kuIAXbBMBUwzAx8VjlGddwqpi4HoufJDxrf6O+hkg4hv6JHdb+n6x6a4K0mDbOBwdv12p3KHY23Ll0pROoKqtI3qcBAedtkFV9Sh2JWjvayZreVd9hMvdCQpfBoz/Vni+vPRvOVp0V9OHdYNW+7g0ObjJ97eixuKyaTO",
+    "WEBSITE_CONTENTSHARE": "CfDJ8K8ro0ohLGZAkUxudtRoYTuHFfk+OG4EH43RsiR0kp68DBl+6A3gCBNZRiYpp8omSyNudQI7xyJyyKMdPnbMyd+/byta9JYEhH/aCDdfhACkVJ2d+Y7sB8ur+0Qho7u4RMzZP+iCYdzY1Ojdwog718A=",
+    "APPINSIGHTS_INSTRUMENTATIONKEY": "CfDJ8K8ro0ohLGZAkUxudtRoYTueZj2UFn1Y245bj+7Cb20CLlhrrtHG8KjFzPX3aHx3oxrJ4plen3iZef6LEeet1XKcojeEQypcicgWT5EMErSyjKlaNVGVcYKe8TpA1FpUEn0E8cKJpCun48Lf8Mkgf2ipUK36A2/ATgJAtrpH53+q",
+    "MyMongoDBConnectionString": "CfDJ8K8ro0ohLGZAkUxudtRoYTsmQhed2xTXPC0yzaQdfKp1WjqGBoHhZ82hUUs3KnvEAOnODnhrBk7jTUr5BYtSt4rmXJXXn9hU8w4hAm/LZfwVP2lZvZ/6u7C/F1ZP2LPELcDslI25SPgTYnrrlN3zmm4sVsP88xHvyfsKEyzHTRRf/sMeDDsrqNwzsDZ8CcmoKHOg4LAlupBdH4REptAYqzxosZhXkZ1A/eUzr6n18kmDYyjfbl13dBpfaTnRa40Vl1yUEsKOX03rvGCMBwMtdd5qjuBWEQvvi+FUnyoHs4YuYIUSn9iiTsy/6KqN5UfXuGqJjcizuqQKWRRjfjXw++cqJBGPrP4FRtyHZbTiP+TOCg8weD+dBF/vuDFAzUJt8i3+hUu62F+4pPacSiVN1LWqjNmukVeqr36x0R++uP9uolyj7TbGjmiGzM/UnUXkFuqlwfNLqm4nS5K/WNzqcwz7nu2Wkb2XmAvvpyeItzWS"
   },
-  "ConnectionStrings": "mongodb://neighborlyappcosmosmongodb:zPStT3tZVQ9CSQ4a536Tsb0cHsbdcF7tqkNNzAk6pMCQdbwO1Xd9mYoGLZSlgaFAwJWOW7RRq1Flim4PVEJYzw==@neighborlyappcosmosmongodb.mongo.cosmos.azure.com:10255/?ssl=true&replicaSet=globaldb&retrywrites=false&maxIdleTimeMS=120000&appName=@neighborlyappcosmosmongodb@",
-
-  "AzureWebJobsStorage": ""
+  "ConnectionStrings": {}
 }
